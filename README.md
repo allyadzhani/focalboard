@@ -1,6 +1,8 @@
 ![LOGO FOCALBOARD](https://github.com/user-attachments/assets/35149aaa-1c36-498d-86d0-76698f1e67b8)
 # Focalboard
 Untuk Proyek UTS Mata Kuliah Komunikasi Data dan Jaringan Komputer
+| [Sekilas Tentang](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#sekilas-tentang) | [Instalasi](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#instalasi) | [Konfigurasi]( https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#konfigurasi) | [Cara Pemakaian](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#cara-pemakaian) | [Pembahasan](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#pembahasan) | [Referensi](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#referensi) |
+| -- | -- | -- | -- | -- | -- |
 
 
 ## Sekilas Tentang
