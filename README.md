@@ -9,21 +9,26 @@ Untuk Proyek UTS Mata Kuliah Komunikasi Data dan Jaringan Komputer
 
 Focalboard adalah alat manajemen proyek open-source yang dapat membantu tim mengorganisir dan mengelola pekerjaan mereka. Focalboard memusatkan semua pekerjaan di satu tempat, sehingga setiap anggota dalam tim dapat lebih fokus dalam menyelesaikan tugas mereka. Focalboard juga mempermudah tim untuk mengatur dan memvisualisasikan pekerjaan mereka sesuai kebutuhan, sehingga tim dapat bekerja sesuai dengan style masing-masing.
 
+[`kembali ke atas`](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#Focalboard)
+
 
 ## Instalasi
 
 x
 
+[`kembali ke atas`](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#Focalboard)
 
 ## Konfigurasi
 
 x
 
+[`kembali ke atas`](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#Focalboard)
 
 ## Cara Pemakaian
 
 x
 
+[`kembali ke atas`](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#Focalboard)
 
 ## Pembahasan
 
@@ -37,6 +42,7 @@ Namun demikian, masih dapat beberapa kekurangan pada Focalboard, yaitu, dikarena
 - Focalboard hanya tersedia dalam bentuk browser atau cloud, sedangkan Trello dapat diakses melalui browser, perangkat genggam, maupun terunduh dalam komputer.
 - Focalboard tidak memiliki API Support maupun in
 
+[`kembali ke atas`](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#Focalboard)
 
 ## Referensi
 
@@ -44,3 +50,5 @@ Namun demikian, masih dapat beberapa kekurangan pada Focalboard, yaitu, dikarena
 2. [Github Focalboard](https://github.com/mattermost-community/focalboard)
 3. [Review Focalboard](https://alternativeto.net/software/focalboard/about/)
 4. [Perbandingan Focalboard](https://www.spotsaas.com/compare/focalboard-vs-trello)
+
+[`kembali ke atas`](https://github.com/allyadzhani/focalboard/tree/main?tab=readme-ov-file#Focalboard)
