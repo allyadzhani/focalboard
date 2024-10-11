@@ -1,3 +1,4 @@
+![LOGO FOCALBOARD](https://github.com/user-attachments/assets/35149aaa-1c36-498d-86d0-76698f1e67b8)
 # Focalboard
 Untuk Proyek UTS Mata Kuliah Komunikasi Data dan Jaringan Komputer
 
