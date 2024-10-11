@@ -36,4 +36,7 @@ Namun demikian, masih dapat beberapa kekurangan pada Focalboard, yaitu, dikarena
 
 ## Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
+1. [Website Focalboard](https://www.focalboard.com/)
+2. [Github Focalboard](https://github.com/mattermost-community/focalboard)
+3. [Review Focalboard](https://alternativeto.net/software/focalboard/about/)
+4. [Perbandingan Focalboard](https://www.spotsaas.com/compare/focalboard-vs-trello)
